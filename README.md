@@ -3,4 +3,4 @@ NARD2 is the second version of the Northeast Asian Reference Database (NARD), an
 
 NARD version 1 paper : Yoo, Seong-Keun, et al. "NARD: whole-genome reference panel of 1779 Northeast Asians improves imputation accuracy of rare and low-frequency variants." Genome medicine 11.1 (2019): 1-10.(https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0677-z)
 
-
+<img src="https://github.com/jjuhh/NARD2_GWAS/blob/main/NARD2_Overview.png">
